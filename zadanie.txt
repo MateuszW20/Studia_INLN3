@@ -1,0 +1,4 @@
+1. na nowym branchu o dowolnej nazwie (dla nowego zwierzęcia) wprowadzić zmiany takie jak dla poprzedniego zwierzęcia
+(sekcja, a w niej h2, img - zdjęcie z pliku i opis)
+2. wysłać zmiany w jednym commicie do repozytorium lokalnego
+3. wysłać nowy branch do repozytorium na githubie
